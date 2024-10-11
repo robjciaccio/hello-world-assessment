@@ -1,5 +1,5 @@
 {
-  "name": "AwesomeProject",
+  "name": "awesomeproject",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -32,6 +32,5 @@
   },
   "engines": {
     "node": ">=18"
-  },
-  "packageManager": "yarn@3.6.4"
+  }
 }
